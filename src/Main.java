@@ -1,4 +1,4 @@
-//SUDOKU
+//SUDOKU GAME
 
 import java.util.*;
 class Main{
